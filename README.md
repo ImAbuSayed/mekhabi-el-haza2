@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني تعالي هنا
+> في حضني إنتِ كل المنى
+> قلبي وروحي معاك يا حبيبي
+> في كل لحظة إنت نصيبي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
