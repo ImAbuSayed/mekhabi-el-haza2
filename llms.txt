@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Mekhabi El Haza2 |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mekhabi-el-haza2/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني تعالي هنا
+> في حضني إنتِ كل المنى
+> قلبي وروحي معاك يا حبيبي
+> في كل لحظة إنت نصيبي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
