@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mekhabi-el-haza2/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Sync Licensing for Mekhabi El Haza2](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Mekhabi El Haza2](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
