@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mekhabi El Haza2
+
+This log tracks the cryptographic history and versioning for the song **Mekhabi El Haza2** (mekhabi-el-haza2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T20:47:54.491777 | `v1` | `41aac6848155248b8f856f9d665317b1ac831bf25662e164445203d49a77d7b8` | `d971a76ffc6748d3483d3cec0115d5eded48c9c9dd89de87f2e4f97ad36d66aa` | `2026-05-08_mekhabi-el-haza2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
